@@ -1,24 +1,3 @@
-// import {
-//   carousel1,
-//   carousel2,
-//   carousel3,
-//   jaranKepang,
-//   karapanSapi,
-//   kasada,
-//   keboan,
-//   kedukBeji,
-//   larungSembonyo,
-//   lontongBalap,
-//   ludruk,
-//   profile,
-//   rawon,
-//   reog,
-//   rujak,
-//   soto,
-//   tariGandrung,
-//   tariRemo,
-// } from "@/public";
-
 import { quote, quoteImg, kesenian, kuliner, tradisi, jaranKepang, kasada, tariRemo } from "@/public/images/beranda";
 import { profile1, profile2, profile3 } from "@/public/images/artikel";
 import {
